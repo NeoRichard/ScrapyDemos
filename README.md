@@ -1,0 +1,2 @@
+# ScrapyDemos
+Examples using Scrapy
